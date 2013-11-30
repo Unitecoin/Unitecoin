@@ -1,8 +1,3 @@
-Unitecoin
-=========
-
-Bringing Cryptocurrency together
-
 UniteCoin (UNI)
 
 Scrypt Proof of Work
@@ -20,3 +15,4 @@ QR Code Support
 RPC Port = 7675
 
 P2P Port = 7677
+
